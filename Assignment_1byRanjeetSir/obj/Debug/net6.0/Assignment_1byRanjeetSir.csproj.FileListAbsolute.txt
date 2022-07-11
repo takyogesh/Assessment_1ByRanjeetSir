@@ -1,0 +1,15 @@
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\bin\Debug\net6.0\Assignment_1byRanjeetSir.exe
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\bin\Debug\net6.0\Assignment_1byRanjeetSir.deps.json
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\bin\Debug\net6.0\Assignment_1byRanjeetSir.runtimeconfig.json
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\bin\Debug\net6.0\Assignment_1byRanjeetSir.dll
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\bin\Debug\net6.0\Assignment_1byRanjeetSir.pdb
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.csproj.AssemblyReference.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.AssemblyInfoInputs.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.AssemblyInfo.cs
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.csproj.CoreCompileInputs.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.dll
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\refint\Assignment_1byRanjeetSir.dll
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.pdb
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\Assignment_1byRanjeetSir.genruntimeconfig.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\Assignment_1byRanjeetSir\Assignment_1byRanjeetSir\obj\Debug\net6.0\ref\Assignment_1byRanjeetSir.dll
